@@ -1,1 +1,2 @@
- print(2+2): # type: ignore
+hola = 5+5
+print(hola)
